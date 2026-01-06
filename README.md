@@ -5,3 +5,10 @@
 <h3> Take a look how cool it is!!! </h3>
 <br>
 <img width="480" height="597" alt="Screenshot 2025-11-26 222540" src="https://github.com/user-attachments/assets/2e8b0dfe-e3e6-4186-b248-6162da69bb53" />
+<br>
+Here's the Thing:
+<br>
+<img width="867" height="1156" alt="image" src="https://github.com/user-attachments/assets/4cac9faf-c869-44db-ad6c-e9be7360f9b1" />
+<br>
+<img width="867" height="1156" alt="image" src="https://github.com/user-attachments/assets/12082bd2-8551-4494-bdac-2bb634c1970a" />
+
